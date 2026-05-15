@@ -1,0 +1,4 @@
+user: indoameicalarad_api_indoamerica
+pass: GhdkGxjxLmNze5zGKKtY
+host: localhost
+base de datos: indoameicalarad_api_indoamerica
